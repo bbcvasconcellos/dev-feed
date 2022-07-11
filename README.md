@@ -26,6 +26,3 @@ Frontend project which allows its users to post comments, add feedback and creat
 ### 2.2. Tools:
 
 - [Vite](https://vitejs.dev/)
-"# dev-feed" 
-"# dev-feed" 
-"# dev-feed" 
