@@ -19,7 +19,9 @@ export const UserInfo = styled.div`
 `;
 
 export const ProfilePic = styled.img`
-  width: calc(3.5rem + 12px);
+  width: calc(
+    3.5rem + 12px
+  ); // 3.5rem from pic width + 4px border left + 4px border right + 2px outline left + 2px outline right
   height: calc(3.5rem + 12px);
   margin-top: calc(-1.75rem - 6px);
   margin-bottom: 1rem;
